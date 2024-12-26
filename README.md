@@ -24,8 +24,18 @@ This project use the data set from [Kaggle Dataset](https://www.kaggle.com/datas
    - Remove duplicates.
 
 2. **Exploratory Data Analysis (EDA):** Use Python and SQL to answer the following questions:
+
    - Overall Sales Performance: What is the total sales and profit?
    - Regional Trends: Which region has the highest and lowest sales?
    - Top-Selling Products: Which product categories and subcategories contribute the most to sales?
    - Customer Insights: Which customer segment brings in the most profit?
    - Monthly Trends: How do sales and profit vary over months and years?
+
+3. **Data Visualization:**
+
+- Use Matplotlib and Seaborn to visualize key findings:
+
+  - A bar chart of total sales and profit per region.
+  - A line chart showing monthly sales trends.
+  - A heatmap of correlations (e.g., between discount, sales, and profit).
+  - A pie chart of product category contribution to sales.
